@@ -1,0 +1,15 @@
+C:\Users\Nathan\Desktop\AppControleEquipamentos\Visao\bin\Release\Visao.exe.config
+C:\Users\Nathan\Desktop\AppControleEquipamentos\Visao\bin\Release\Visao.exe
+C:\Users\Nathan\Desktop\AppControleEquipamentos\Visao\bin\Release\Visao.pdb
+C:\Users\Nathan\Desktop\AppControleEquipamentos\Visao\obj\Release\Visao.csprojResolveAssemblyReference.cache
+C:\Users\Nathan\Desktop\AppControleEquipamentos\Visao\obj\Release\Visao.Backup.resources
+C:\Users\Nathan\Desktop\AppControleEquipamentos\Visao\obj\Release\Visao.CadastrarOS.resources
+C:\Users\Nathan\Desktop\AppControleEquipamentos\Visao\obj\Release\Visao.Configuracao.resources
+C:\Users\Nathan\Desktop\AppControleEquipamentos\Visao\obj\Release\Visao.Login.resources
+C:\Users\Nathan\Desktop\AppControleEquipamentos\Visao\obj\Release\Visao.ManutencaoEquipamentos.resources
+C:\Users\Nathan\Desktop\AppControleEquipamentos\Visao\obj\Release\Visao.Properties.Resources.resources
+C:\Users\Nathan\Desktop\AppControleEquipamentos\Visao\obj\Release\Visao.Splash.resources
+C:\Users\Nathan\Desktop\AppControleEquipamentos\Visao\obj\Release\Visao.csproj.GenerateResource.Cache
+C:\Users\Nathan\Desktop\AppControleEquipamentos\Visao\obj\Release\Visao.csproj.CoreCompileInputs.cache
+C:\Users\Nathan\Desktop\AppControleEquipamentos\Visao\obj\Release\Visao.exe
+C:\Users\Nathan\Desktop\AppControleEquipamentos\Visao\obj\Release\Visao.pdb

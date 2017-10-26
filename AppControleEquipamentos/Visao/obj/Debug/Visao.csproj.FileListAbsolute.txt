@@ -1,0 +1,51 @@
+c:\users\aluno.unilasalle\documents\visual studio 2012\Projects\AppControleEquipamentos\Visao\bin\Debug\Visao.exe.config
+c:\users\aluno.unilasalle\documents\visual studio 2012\Projects\AppControleEquipamentos\Visao\obj\Debug\Visao.csprojResolveAssemblyReference.cache
+c:\users\aluno.unilasalle\documents\visual studio 2012\Projects\AppControleEquipamentos\Visao\obj\Debug\Visao.Properties.Resources.resources
+c:\users\aluno.unilasalle\documents\visual studio 2012\Projects\AppControleEquipamentos\Visao\obj\Debug\Visao.csproj.GenerateResource.Cache
+c:\users\aluno.unilasalle\documents\visual studio 2012\Projects\AppControleEquipamentos\Visao\obj\Debug\Visao.CadastrarOS.resources
+c:\users\aluno.unilasalle\documents\visual studio 2012\Projects\AppControleEquipamentos\Visao\obj\Debug\Visao.Login.resources
+c:\users\aluno.unilasalle\documents\visual studio 2012\Projects\AppControleEquipamentos\Visao\obj\Debug\Visao.ManutencaoEquipamentos.resources
+C:\Users\aluno.unilasalle\Documents\Visual Studio 2012\Projects\AppControleEquipamentos\Visao\bin\Debug\Visao.exe
+C:\Users\aluno.unilasalle\Documents\Visual Studio 2012\Projects\AppControleEquipamentos\Visao\bin\Debug\Visao.pdb
+C:\Users\aluno.unilasalle\Documents\Visual Studio 2012\Projects\AppControleEquipamentos\Visao\obj\Debug\Visao.Backup.resources
+C:\Users\aluno.unilasalle\Documents\Visual Studio 2012\Projects\AppControleEquipamentos\Visao\obj\Debug\Visao.Configuracao.resources
+C:\Users\aluno.unilasalle\Documents\Visual Studio 2012\Projects\AppControleEquipamentos\Visao\obj\Debug\Visao.Splash.resources
+C:\Users\aluno.unilasalle\Documents\Visual Studio 2012\Projects\AppControleEquipamentos\Visao\obj\Debug\Visao.exe
+C:\Users\aluno.unilasalle\Documents\Visual Studio 2012\Projects\AppControleEquipamentos\Visao\obj\Debug\Visao.pdb
+C:\Users\Nathan\Desktop\AppControleEquipamentos\Visao\bin\Debug\Visao.exe.config
+C:\Users\Nathan\Desktop\AppControleEquipamentos\Visao\bin\Debug\Visao.exe
+C:\Users\Nathan\Desktop\AppControleEquipamentos\Visao\bin\Debug\Visao.pdb
+C:\Users\Nathan\Desktop\AppControleEquipamentos\Visao\obj\Debug\Visao.csprojResolveAssemblyReference.cache
+C:\Users\Nathan\Desktop\AppControleEquipamentos\Visao\obj\Debug\Visao.Backup.resources
+C:\Users\Nathan\Desktop\AppControleEquipamentos\Visao\obj\Debug\Visao.CadastrarOS.resources
+C:\Users\Nathan\Desktop\AppControleEquipamentos\Visao\obj\Debug\Visao.Configuracao.resources
+C:\Users\Nathan\Desktop\AppControleEquipamentos\Visao\obj\Debug\Visao.Login.resources
+C:\Users\Nathan\Desktop\AppControleEquipamentos\Visao\obj\Debug\Visao.ManutencaoEquipamentos.resources
+C:\Users\Nathan\Desktop\AppControleEquipamentos\Visao\obj\Debug\Visao.Properties.Resources.resources
+C:\Users\Nathan\Desktop\AppControleEquipamentos\Visao\obj\Debug\Visao.Splash.resources
+C:\Users\Nathan\Desktop\AppControleEquipamentos\Visao\obj\Debug\Visao.csproj.GenerateResource.Cache
+C:\Users\Nathan\Desktop\AppControleEquipamentos\Visao\obj\Debug\Visao.csproj.CoreCompileInputs.cache
+C:\Users\Nathan\Desktop\AppControleEquipamentos\Visao\obj\Debug\Visao.exe
+C:\Users\Nathan\Desktop\AppControleEquipamentos\Visao\obj\Debug\Visao.pdb
+C:\Users\Nathan\Desktop\AppControleEquipamentos\Visao\obj\Debug\Visao.ControleEquipamentos.resources
+C:\Users\aluno.unilasalle\Desktop\AppControleEquipamentos\Visao\obj\Debug\Visao.Backup.resources
+C:\Users\aluno.unilasalle\Desktop\AppControleEquipamentos\Visao\obj\Debug\Visao.CadastrarOS.resources
+C:\Users\aluno.unilasalle\Desktop\AppControleEquipamentos\Visao\obj\Debug\Visao.Configuracao.resources
+C:\Users\aluno.unilasalle\Desktop\AppControleEquipamentos\Visao\obj\Debug\Visao.ControleEquipamentos.resources
+C:\Users\aluno.unilasalle\Desktop\AppControleEquipamentos\Visao\obj\Debug\Visao.Login.resources
+C:\Users\aluno.unilasalle\Desktop\AppControleEquipamentos\Visao\obj\Debug\Visao.ManutencaoEquipamentos.resources
+C:\Users\aluno.unilasalle\Desktop\AppControleEquipamentos\Visao\obj\Debug\Visao.Properties.Resources.resources
+C:\Users\aluno.unilasalle\Desktop\AppControleEquipamentos\Visao\obj\Debug\Visao.Splash.resources
+C:\Users\aluno.unilasalle\Desktop\AppControleEquipamentos\Visao\obj\Debug\Visao.csproj.GenerateResource.Cache
+C:\Users\aluno.unilasalle\Desktop\AppControleEquipamentos\Visao\bin\Debug\Visao.exe.config
+C:\Users\aluno.unilasalle\Desktop\AppControleEquipamentos\Visao\bin\Debug\Visao.exe
+C:\Users\aluno.unilasalle\Desktop\AppControleEquipamentos\Visao\bin\Debug\Visao.pdb
+C:\Users\aluno.unilasalle\Desktop\AppControleEquipamentos\Visao\bin\Debug\Controle.dll
+C:\Users\aluno.unilasalle\Desktop\AppControleEquipamentos\Visao\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\aluno.unilasalle\Desktop\AppControleEquipamentos\Visao\bin\Debug\Negocio.dll
+C:\Users\aluno.unilasalle\Desktop\AppControleEquipamentos\Visao\bin\Debug\Negocio.pdb
+C:\Users\aluno.unilasalle\Desktop\AppControleEquipamentos\Visao\bin\Debug\Controle.pdb
+C:\Users\aluno.unilasalle\Desktop\AppControleEquipamentos\Visao\obj\Debug\Visao.csprojFakesResolveAssemblyReference.cache
+C:\Users\aluno.unilasalle\Desktop\AppControleEquipamentos\Visao\obj\Debug\Visao.exe
+C:\Users\aluno.unilasalle\Desktop\AppControleEquipamentos\Visao\obj\Debug\Visao.pdb
+C:\Users\aluno.unilasalle\Desktop\AppControleEquipamentos\Visao\obj\Debug\Visao.csprojResolveAssemblyReference.cache

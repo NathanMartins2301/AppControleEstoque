@@ -1,0 +1,4 @@
+C:\Users\aluno.unilasalle\Desktop\AppControleEquipamentos\ClassLibrary1\bin\Debug\Negocio.dll
+C:\Users\aluno.unilasalle\Desktop\AppControleEquipamentos\ClassLibrary1\bin\Debug\Negocio.pdb
+C:\Users\aluno.unilasalle\Desktop\AppControleEquipamentos\ClassLibrary1\obj\Debug\Negocio.dll
+C:\Users\aluno.unilasalle\Desktop\AppControleEquipamentos\ClassLibrary1\obj\Debug\Negocio.pdb

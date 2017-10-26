@@ -1,0 +1,7 @@
+C:\Users\aluno.unilasalle\Desktop\AppControleEquipamentos\Controle\bin\Debug\Controle.dll
+C:\Users\aluno.unilasalle\Desktop\AppControleEquipamentos\Controle\bin\Debug\Controle.pdb
+C:\Users\aluno.unilasalle\Desktop\AppControleEquipamentos\Controle\bin\Debug\Negocio.dll
+C:\Users\aluno.unilasalle\Desktop\AppControleEquipamentos\Controle\bin\Debug\Negocio.pdb
+C:\Users\aluno.unilasalle\Desktop\AppControleEquipamentos\Controle\obj\Debug\Controle.csprojResolveAssemblyReference.cache
+C:\Users\aluno.unilasalle\Desktop\AppControleEquipamentos\Controle\obj\Debug\Controle.dll
+C:\Users\aluno.unilasalle\Desktop\AppControleEquipamentos\Controle\obj\Debug\Controle.pdb
